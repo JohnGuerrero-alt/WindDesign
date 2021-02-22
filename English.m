@@ -1,7 +1,37 @@
-%   Autores:
-%   John Jairo Guerrero Moreno
-%   Diego Julián Rodríguez Patarroyo
-%   Julián Andrés Salamanca Bernal
+%     AUTHORS
+%
+%     [1] John Jairo Guerrero Moreno
+%     [2] Diego Julián Rodríguez Patarroyo
+%     [3] Julián Andrés Salamanca Bernal
+%
+%     Universidad Distrital Francisco José de Caldas
+%
+%    Facultad de Ingeniería
+%    Proyecto Curricular Ingeniería Eléctrica
+%    [1,2] Laboratorio de Investigación de Fuentes Alternativas de Energía - LIFAE
+%    [3] Grupo de Física e Informática - FISINFOR
+%    Emails:
+%    [1] jjguerrerom@correo.udistrital.edu.co,
+%    [2] djrodriguezp@udistrital.edu.co,
+%    [3] jasalamanca@udistrital.edu.co
+%    December 1st, 2020
+
+
+%COPYRIGHT
+%
+%     This file is part of SCWindDesign.
+%     SCWindDesign is free software: you can redistribute it and/or modify
+%     it under the terms of the GNU General Public License as published by
+%     the Free Software Foundation, either version 3 of the License, or
+%     (at your option) any later version.
+%
+%     SCWindDesign is distributed in the hope that it will be useful,
+%     but WITHOUT ANY WARRANTY; without even the implied warranty of
+%     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+%     GNU General Public License for more details.
+%
+%     You should have received a copy of the GNU General Public License
+%     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 classdef English
     properties (Constant)
